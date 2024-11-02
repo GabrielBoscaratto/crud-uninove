@@ -22,8 +22,8 @@ Antes de iniciar o projeto, certifique-se de ter os seguintes itens instalados e
 
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DO_DIRETORIO>
+   git clone https://github.com/GabrielBoscaratto/crud-uninove.git
+   cd crud-uninove
    ```
 
 ### Instalando Dependências
@@ -101,3 +101,4 @@ Para acessar a interface de administração, abra o navegador e vá para a URL:
 ![Tela de Edição](https://github.com/user-attachments/assets/23ddbb7d-be82-4268-8ea1-20cfe5aaf410)
 
 ---
+
