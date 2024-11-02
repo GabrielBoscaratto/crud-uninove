@@ -60,3 +60,21 @@ Deletar: Remover registros do banco de dados.
 
 
 (Filament não tem suporte para lingua no seu template infelizmente, porem foi essencial para utilizar o template visual do projeto)
+
+
+Tela de login:
+
+![image](https://github.com/user-attachments/assets/8da989d6-2419-4091-92b7-bdd2d785ffa5)
+
+Dashboard:
+
+![image](https://github.com/user-attachments/assets/2f269f26-81b3-4f60-bdc4-69d463e346f2)
+
+Tela de Users:
+
+![image](https://github.com/user-attachments/assets/674bc80c-9845-4647-9c28-48297402cf8d)
+
+Tela de Edit:
+
+![image](https://github.com/user-attachments/assets/23ddbb7d-be82-4268-8ea1-20cfe5aaf410)
+
