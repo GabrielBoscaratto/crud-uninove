@@ -4,7 +4,7 @@ Introdução
 
 Este projeto é um sistema de CRUD desenvolvido em PHP com o framework Laravel. O sistema utiliza a biblioteca Filament para fornecer uma interface de usuário moderna e responsiva.
 
-Pré-requisitos
+Pré-requisitos:
 
 Antes de iniciar o projeto, certifique-se de ter o seguinte instalado em sua máquina:
 
@@ -13,7 +13,9 @@ Composer
 MySQL (ou outro banco de dados suportado)
 Laravel (instalação via Composer)
 Filament (instalação via Composer)
-Instalação
+
+
+Instalação:
 
 Clonando o Repositório
 
