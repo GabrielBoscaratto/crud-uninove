@@ -49,7 +49,7 @@ Em seguida, configure as variáveis de ambiente no arquivo `.env` de acordo com 
 Antes de iniciar o servidor, você deve criar as tabelas necessárias no banco de dados. Execute o seguinte comando:
 
 ```bash
-php artisan migrate
+php artisan migrate --seed
 ```
 
 ### Iniciando o Servidor
