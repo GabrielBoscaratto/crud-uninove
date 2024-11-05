@@ -31,7 +31,7 @@ Antes de iniciar o projeto, certifique-se de ter os seguintes itens instalados e
 Execute o comando abaixo para instalar as dependências do projeto:
 
 ```bash
-composer install
+composer install --ignore-platform-req=ext-intl
 ```
 
 ### Configurando o Ambiente
